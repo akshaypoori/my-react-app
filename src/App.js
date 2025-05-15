@@ -1,6 +1,6 @@
 import React from 'react';
 import ImageCompressor from './components/ImageCompressor';
-import';
+import PdfCompressor from './components/PdfCompressor';
 
 function App() {
     return (
